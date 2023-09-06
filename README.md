@@ -4,7 +4,8 @@
 ## Description
 The data is recorded by 754 speakers from more than 100 countries including the United Kingdom, the United States, France, Italy, and Israel. It can fully reflect the language characteristics of foreigners speaking Chinese. The recording environment is quiet indoor, and the recording content is in line with reality. The corpus includes commonly used Chinese characters, words and sentences. All annotated texts contain corresponding pinyin.
 
-For more details, please refer to the link: https://bit.ly/3xRnlL5
+For more details, please refer to the link: https://www.nexdata.ai/speechRecognition?source=Github
+
 
 ## Format
 16kHz, 16bit, wav, mono channel
