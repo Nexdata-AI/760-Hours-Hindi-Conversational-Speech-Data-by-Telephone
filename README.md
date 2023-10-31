@@ -1,32 +1,39 @@
-# 754-People-Foreigner-Speaking-Chinese-Speech-Data-by-Mobile-Phone
-
+# 760-Hours-Hindi-Conversational-Speech-Data-by-Telephone
 
 ## Description
-The data is recorded by 754 speakers from more than 100 countries including the United Kingdom, the United States, France, Italy, and Israel. It can fully reflect the language characteristics of foreigners speaking Chinese. The recording environment is quiet indoor, and the recording content is in line with reality. The corpus includes commonly used Chinese characters, words and sentences. All annotated texts contain corresponding pinyin.
+The 760 Hours - Hindi Conversational Speech Data involved more than 1,000 native speakers, developed with proper balance of gender ratio, Speakers would choose a few familiar topics out of the given list and start conversations to ensure dialogues' fluency and naturalness. The recording devices are various mobile phones. The audio format is 8kHz, 16bit, uncompressed WAV, and all the speech data was recorded in quiet indoor environments. All the speech audio was manually transcribed with text content, the start and end time of each effective sentence, and speaker identification. The accuracy rate of sentences is ≥ 95%.
 
-For more details, please refer to the link: https://www.nexdata.ai/speechRecognition?source=Github
-
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1206?source=Github
 
 ## Format
-16kHz, 16bit, wav, mono channel
+8kHz, 8bit, wav, mono channel;
 
 ## Recording Environment
-quite indoor
+quiet indoor environment, without echo;
 
 ## Recording Content
-90,285 items such as commonly used Chinese characters, words and setences
+dozens of topics are specified, and the speakers make dialogue under those topics while the recording is performed;
 
 ## Speaker
-754 people, from more than 100 countries such as UK, USA, France, Italy,Israel, Columbia and so on
+1,004 speakers totally, with 48% male and 52% female.
+
+## Demographics
+1,004 speakers totally, with 48% male and 52% female.
+
+## Annotation
+annotating for the transcription text, speaker identification and gender
+
+## Device
+Android mobile phone, iPhone;
 
 ## Language
-mandarin
+Hindi
 
-## Annotation Characteristics
-the figures 0-4 are used for annotation of light tone and tones 1-4
+## Application scenarios
+speech recognition; voiceprint recognition;
 
-## Application Scenario
-speech recognition; machine translation; voiceprint recognition
+## Accuracy rate
+95%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commerical License
