@@ -14,9 +14,6 @@ quiet indoor environment, without echo;
 ## Recording Content
 dozens of topics are specified, and the speakers make dialogue under those topics while the recording is performed;
 
-## Speaker
-1,004 speakers totally, with 48% male and 52% female.
-
 ## Demographics
 1,004 speakers totally, with 48% male and 52% female.
 
